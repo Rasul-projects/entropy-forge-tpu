@@ -15,7 +15,7 @@ The computational community views optimization problems (e.g., protein folding, 
 In nature, physical systems minimize energy effortlessly. A soap bubble resolves complex structural surface area optimizations instantaneously because it does not calculate the solution—it relaxes into it via natural physical dynamics. EntropyForge models true thermodynamic state transformations directly at the systemic architecture layer.
 
 ---
-
+![Thermodynamic Optimization Convergence](thermodynamic_convergence.png)
 ## 📈 3. Mathematical & Technical Foundations
 The simulator tracks system state variables through continuous time matrices using an adapted version of **Langevin Dynamics**. The system configuration state vector transforms along a potential energy manifold governed by:
 
