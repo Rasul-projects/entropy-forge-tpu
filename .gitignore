@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Repositories & IDEs
+.vscode/
+.idea/
+*.swp
+
+# Graphics outputs (ignore local runs, keep repo clean)
+# We will manually add our final proof artifact
