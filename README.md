@@ -42,3 +42,11 @@ The codebase demonstrates a fully functioning emulation framework consisting of:
 If scaled into physical hardware (such as analog CMOS circuits or optical systems configured to relax along mathematical potential structures), thermodynamic processors could bypass standard digital clock speeds entirely. Computational scale would no longer be bounded by the number of transistors on a chip, but by the thermodynamic cooling rate of a material matrix. 
 
 This establishes a foundation for low-power autonomous problem-solving arrays, real-time macro-infrastructure orchestration, and high-performance molecular optimization without requiring resource-heavy cryogenic quantum computing infrastructure.
+---
+
+## 🛠️ 6. Installation & Execution Guide
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/Rasul-projects/entropy-forge-tpu.git](https://github.com/Rasul-projects/entropy-forge-tpu.git)
+cd entropy-forge-tpu
