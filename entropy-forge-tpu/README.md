@@ -18,7 +18,7 @@ $$dx_i = -\nabla E(x_i) dt + \sqrt{2k_B T(t)} dW_i$$
 ### 📊 System Optimization Convergence Proof
 Below is the live execution plot tracking how the processing array drops into global thermal equilibrium, bypassing local optimization traps using stochastically injected noise:
 
-![Thermodynamic Optimization Convergence](./thermodynamic_convergence.png)
+![Thermodynamic Optimization Convergence](thermodynamic_convergence.png)
 
 ---
 
