@@ -18,10 +18,11 @@ $$dx_i = -\nabla E(x_i) dt + \sqrt{2k_B T(t)} dW_i$$
 ### 📊 System Optimization Convergence Proof
 Below is the live execution plot tracking how the processing array drops into global thermal equilibrium, bypassing local optimization traps using stochastically injected noise:
 
-![Thermodynamic Optimization Convergence](thermodynamic_convergence.png)
+![Thermodynamic Optimization Convergence](https://raw.githubusercontent.com/Rasul-projects/entropy-forge-tpu/main/thermodynamic_convergence.png)
 
 ---
 
 ## 🚀 4. System Implementation & Architecture
 * **Thermodynamic Core Simulator (`engine.py`)**: Manages continuous-time stochastic state integrations.
 * **Benchmark Execution Layer (`main.py`)**: Runs system matrix arrays from randomized configurations into organized steady-state solutions.
+* **Interactive Evaluation Dashboard (`app.py`)**: A live Streamlit framework for real-time state manipulation and analysis.
